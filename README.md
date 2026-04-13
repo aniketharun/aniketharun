@@ -2,12 +2,12 @@
 
 Hi there! 👋 I'm **Aniketh** — a CS undergrad who loves building things that actually work!
 
-🔭 Currently building **data analytics tools** and **full-stack web apps**
-🧠 Passionate about **building real projects that solve real problems**
-💼 **Web Developer Intern** @ NxElite IT Services
-🌱 Always leveling up in **Python, data engineering, and AI/ML**
-🚀 Built live projects like **Data Quality Monitor**, **Map Data Validator**, **MindMate** and more
-🤝 Open to collaborating on anything data, analytics, or full-stack
+🔭 Currently building **data analytics tools** and **full-stack web apps** <br>
+🧠 Passionate about **building real projects that solve real problems** <br>
+💼 **Web Developer Intern** @ NxElite IT Services — shipping production React dashboards <br>
+🌱 Always leveling up in **Python, data engineering, and AI/ML** <br>
+🚀 Built live projects: **Data Quality Monitor**, **Map Data Validator**, **MindMate** — all deployed! <br>
+🤝 Open to collaborating on anything data, analytics, or full-stack <br>
 ⚡ Fun fact — if I'm not coding, I'm probably travelling!
 
 ---
