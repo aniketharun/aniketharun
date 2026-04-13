@@ -49,12 +49,13 @@ Hi there! 👋 I'm **Aniketh** — a CS undergrad who loves building things that
 |--------|-------------|-------|-------|
 | 🧹 **Data Quality Monitor** | Automated data validation & quality scoring with ML anomaly detection and Auto-Fix engine | Python, Pandas, Scikit-learn, Streamlit | [Live](https://data-quality-monitor-fkaz8xq2bfnhnj5vx2sxpd.streamlit.app/) · [GitHub](https://github.com/aniketharun/Data-Quality-Monitor) |
 | 🗺️ **Map Data Validator** | Geospatial dataset auditing platform with weighted quality scoring and interactive Folium maps | Python, Pandas, Folium, Plotly, Streamlit | [Live](https://map-data-validator-m9zsewtnzzjpxxwaqwsrk7.streamlit.app/) · [GitHub](https://github.com/aniketharun/Map-Data-Validator) |
+| 🧠 **MindMate** | AI mental health companion with NLP intent detection, sentiment analysis, and mood-based activity recommendations | MERN Stack, NLP | [Live](https://mind-mate-aniketharuns-projects.vercel.app/chat) |
 
 ---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aniketharun&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=aniketharun&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aniketharun&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketharun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
